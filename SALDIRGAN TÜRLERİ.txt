@@ -1,0 +1,7 @@
+SALDIRGAN TÜRLERİ
+-Amatörler: Bazıları sadece meraklıdır, diğerleri ise becerilerini göstermeye ve zarar vermeye çalışırlar.
+-Hackerler: Bu saldırgan grubu erişim elde etmek için bilgisayar sistemine veya ağlara girerler.
+1-Beyaz Şapkalı Hackerlar= Sistem veya ağın güvenliğini iyileştirmek amacıyla herhangi bir zayıflığı tespit etmek için ağlara veya bilgisayar sistemlerine girerler. Bu girişler önceden izin alınarak yapılır ve sonuç sahibine bildirilir
+2-Gri Şapkalı Hackerlar= Bİr Sistemdeki Güvenlik açıklarını bulmak için yola çıkabilirler ama bulguları yalnızca kendi gündemleriyle örtüşüyorsa sistem sahiplerine rapor edeceklerdir veya diğer saldırganların yararlanabilmesi için güvenlik açığı ile ilgili ayrıntıları internette yayarlar.
+3-Siyah Şapkalı Hackerlar: Yasadışı kişisel, mal, veya siyasi kazanç için herhangi bir güvenlik açığından yararlanırlar.
+-Organize Hackerlar: Bu saldırganlar arasında siber suçlular, hactivistler, teröristler ve devlet destekli hackerlardan oluşan örgütler yer alır.

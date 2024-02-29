@@ -1,0 +1,7 @@
+                        VERİYİ KORUMAK İÇİN KULLANILAN GÜVENLİK ÖNLEMLERİ
+
+-Farkındalık, Eğitim ve Öğretim: Kullanıcıların potansiyel güvenlik tehditleri ve bilgi sistemlerini korumak için olabilecekleri eylemler hakkında bilgi sahibi olmalarını sağlamak amacıyla bir kuruluş tarafından uygulanan yöntemlerdir.
+
+-Teknoloji: Olası kötü amaçlı olayları araştırmak amacıyla ağınızı sürekli izleyen güvenlik duvarı gibi bilgi sistemlerini korumak için tasarlanmış yazılım ve donanım tabanlı çözümleri ifade eder.
+
+-Politika ve Prosedür: Bir kuruluşun olay müdahale planları ve en iyi uygulama klavuzları gibi bilgi güvencesini nasıl uyguladığına ilişkin temel sağlayan idari kontrolleri ifade eder.

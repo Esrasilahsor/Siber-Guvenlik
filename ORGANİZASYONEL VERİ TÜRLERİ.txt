@@ -1,0 +1,8 @@
+ORGANİZASYONEL VERİ TÜRLERİ
+
+Geleneksel Veriler: Genellikle büyük ve küçük tüm kuruluşlar tarafından oluşturulu ve korunur.
+-Alışveriş ve satışla ilgili detaylar
+-Fikri mülkiyet, patentler, ticari markalar, yeni ürün planları
+-Gelir tabloları, bilançolar, ve nakit akış tabloları gibi finansal veriler
+
+Nesnelerin İnterneti(loT) ve Büyük Veriler: loT, sensörler, yazılımlar ve diğer ekipmanlar gibi fiziksel nesnelerden oluşan geniş bir ağdır. Tüm bu şeyler veri toplama ve paylaşma olanağıyla internete bağlıdır. Depolama seçeneklerinin bulut ve sanallaştırma yoluyla genişlediği göz önününe alındığında, loT'nin ortaya çıkışının verilerde katlanarak artan bir büyümeye yol açması teknoloji ve iş dünyasında "Büyük Veri" adı verilen yeni bir ilgi alanı yaratması şaşırtıcı değildir.
