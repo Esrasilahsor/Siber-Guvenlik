@@ -1,4 +1,7 @@
-HER DURUMDA BİLGİNİN KORUNMASI
+                          HER DURUMDA BİLGİNİN KORUNMASI
+
 -İşleme: Bir operasyonu gerçekleştirmek için kullanılan verilere atıfta bulunur; örneğin, bir veritabanı kaydını güncelleme işlemi (işlemdeki veri)
+
 -Depolama: Bellekte veya sabit sürücü, yarıiletken sürücü veya USB sürücü (beklenmeyen veriler)gibi kalıcı bir depolama aygıtında depolanan verileri ifade eder.
+
 -İletim: Bilgi sistemleri arasında dolaşan verileri (aktarım halindeki verileri) ifade eder.

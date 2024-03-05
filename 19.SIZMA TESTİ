@@ -1,0 +1,31 @@
+                  19.SIZMA TESTİ
+
+Yaygın olarak pen testi olarak bilinen sızma testi, bilgisayar sistemini, ağı veya kuruluşu güvenlik açıkları açısından değerlendirme eylemidir. Bir sızma testi, sömürülebilecek Güvenlik açıklarını ortaya çıkarmak için sistemleri, insanları, süreçleri ve kodları ihlal etmeyi amaçlar. Bu bilgiler daha sonra gelecekte siber saldırılara daha iyi dayanabilmesini sağlamak amacıyla sistemin savunmasını geliştirmek için kullanılır.
+
+1.Adım: Planlama
+
+Sızma testçisi, hedef sistem veya ağ hakkında mümkün olduğunca fazla bilgi toplar, potansiyel güvenlik açıklarını ve bunlara karşı kullanılacak istismarları toplar. Bu, pasif veya aktif keşif(ayak izi) ve güvenlik açığı araştırmalarının yürütülmesini içerir.
+
+2.Adım: Tarama
+
+Sızma testçisi, hedef sistemi veya ağı araştırmak ve istismar edilmesi durumunda saldırganın erişimine yol açabilecek potansiyel zayıflıkları belirlemek için aktif keşif gerçekleştirilir.
+
+3.Adım: Erişim Kazanma
+
+Sızma testini yapan, sistemi istismar etmek için aşağıdakiler de dahil olmak üzere çeşitli yöntemler kullanarak hedef sisteme erişmeye ve ağ trafiğini koklamaya çalışacaktır.
+
+*Sisteme bir yük ile bir sömürü(exploit) başlatma
+*Varlıklara yönelik fiziksel engellerin aşılması
+*Sosyal mühendislik
+*Web sitesinin güvenlik açıklarını sömürme
+*Yazılım ve donanım açıklarını sömürme veya yanlış yapılandırmalarını sömürme
+*Erişim kontrollerinin güvenliğini ihlal etmek
+*Zayıf parolalı Wi-Fi'yi kırmak
+
+4.Adım: Erişimi Sürdürme 
+
+Sızma testçisi, hangi veri ve sistemlerin istismara açık olduğunu bulmak için hedefe erişimi sürdürecektir. Varlıklarını gizlemek için genellikle arka kapılar, truva atları, rootkitler ve diğer gizli kanalları kullanarak tespit edilmemeleri önemlidir. Bu altyapı hazır olduğunda sızma testçisi değerli olduğunu düşündüğü verileri toplamaya devam edecektir.
+
+5.Adım: Analiz ve Raporlama
+
+Sızma testçisi, bir kuruluşun güvenliğini arttırmak için ürünlerde, politikalarda ve eğitimlerde güncellemeler öneren bir rapor aracılığıyla geri bildirim sağlayacaktır.

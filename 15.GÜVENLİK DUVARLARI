@@ -1,0 +1,12 @@
+                                            15.GÜVENLİK DUVARLARI
+
+Bir güvenlik duvarı(firewall) ağın içinde hangi iletişimlere izin verileceğine ve hangi cihazların dışarıya çıkmasına izin verileceğini kontrol etmek veya filtrelemek üzere tasarlanmıştır.
+
+1-Ağ Katmanı Güvenlik Duvarı: Bu cihaz iletişimleri kaynak hedef ve IP adreslerine göre filtreler.
+2-Taşıma Katmanı Güvenlik Duvarı: Kaynak ve hedef portlarına ve bağlantı durumlarına göre filtreler.
+3-Uygulama Katmanı Güvenlik Duvarı: İletişimleri bir uygulamaya, programa veya gizmete göre filtreler.
+4-Bağlama Duyarlı Katman Güvenlik Duvarı: Kullanıcı cihaz, rol ve tehdit profiline göre filtreler.
+5-Proxy Sunucu: URL'ler, alan adları ve medya türleri gibi web içeriği isteklerini filtreler.
+6-Ters Proxy Sunucusu: Web sunucularının önüne geliştirilen ters proxy sunucuları, web sunucularına erişimi korur, gizler,boşaltır ve dağıtır.
+7-Ağ Adresi Çeviricisi(NAT) Güvenlik Duvarı: Ağ bilgisayarlarının özel adreslerini gizler veya maskeler.
+8-Host Tabanlı Güvenlik Duvarı: Tek bir bilgisayar işletim sisteminde portların ve sistem servis çağrılarının filtrelenmesidir.

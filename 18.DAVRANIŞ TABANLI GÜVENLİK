@@ -1,0 +1,7 @@
+                               18.DAVRANIŞ TABANLI GÜVENLİK
+
+Davranış tabanlı algılama, yerel ağdaki bir kullanıcı ile yerel veya uzak bir hedef arasındaki iletişim akışını yakalamayı ve analiz etmeyi içerir. Normal davranış kalıplarındaki herhangi bir değişiklik anormallik olarak kabul edilir ve bir saldırıya işaret edebilir.
+
+-Honeypotlar(Balküpü): Honeypot, tahmin edilen kötü niyatli davranış modeline başvurarak saldırganı cezbeden, davranış temelli bir tespit aracıdır. Saldırgan balküpünün içine girdiğinde, ağ yöneticisi daha iyi bir savunma oluşturabilmek için saldırganın davranışlarını yakalayabilir, günlüğüne kaydedebilir ve analiz edebilir.
+
+-Netflow: Netflow teknolojisi, ağda kim ve hangi cihazların olduğu ve kullanıcıların cihazların ağa ne zaman ve nasıl eriştiği de dahil olmak üzere, bir ağ üzerinden akan veriler hakkında bilgi toplamak için kullanılır. Netflow davranış tabanlı algılama ve analizde önemli bir bileşendir. Netflow ile donatılmış anahtarlar, yönlendiriciler ve güvenlik duvarları, ağa giren, çıkan ve ağ tarafından transfer edilen veriler hakkında bilgi raporlayabilir.

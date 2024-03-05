@@ -1,2 +1,3 @@
-McCumber Küpü
+                 McCumber Küpü
+
 Kuruluşların bilgi güvenliği girişimlerini kendilerini etkileyen tüm ilgili faktörleri dikkate alarak oluşturmalarına ve değerlendirmelerine yardımcı olmak amacıyla oluşturulan bir model çerçeve.

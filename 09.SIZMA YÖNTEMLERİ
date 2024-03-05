@@ -1,0 +1,35 @@
+                                                                  SIZMA YÖNTEMLERİ
+
+-Sosyal Mühendislik: İnsanların eylemler gerçekleştirmeleri veya gizli bilgileri ifşa etmeleri için manipüle edilmesidir. SOsya mühendisler genelde insanların yardım etme isteklerine güvenir, aynı zamanda onların zayıflıklarından da yararlanırlar. Örneğin; bahane üretme, arkasından sızma, bir şey karşılığında bir şey(quid pro quo)
+
+-Servis Engelleme(DoS): Vasıfsız bir saldırgan tarafından bile gerçekleştirilmesi nispeten basit bir ağ saldırısı türüdür. DoS saldırısı kullanıcılara, cihazlara veya uygulamalara yönelik bir çeşit ağ hizmetinin kesilmesine yol açar.
+
+*Ezici Miktarda Trafik= Bu saldırı bir ağa, ana bilgisayar veya uygulamaya işleyemeyeceği bir hızda muazzam miktarda veri göndermesidir. Bu durum iletimin veya yanıtın yavaşlamasına veya bir cihazın ya da hizmetin kitlenmesine neden olur.
+*Kötü Amaçlı Biçimlendirilmiş Paketler= Kötü amaçlı olarak  biçimlendirilmiş bir paket gönderildiğinde, alıcı bunu işlemeyecektir.
+
+ DOS saldırıları, iletişimi kolayca kesebilecekleri ve zaman veya para kaybına neden olabilecekleri için büyük risk kabul edilir.
+
+-Dağıtılmış DoS: DoS saldırılarına benzerdir ancak birden çok koordineli kaynaktan kaynaklanır.
+
+*Saldırgan, işleyici sistemler (handler) tarafından kontrol edilen, zamlar adı verilen virüslü ana bilgisayarlardan oluşan bir ağ (botnet) oluşturur.
+*Zombi bilgisayarlar sürekli daha fazla ana bilgisayarları tarayıp enfekte edecek ve giderek daha fazla zombi yaratacaktır.
+*Hazır olduğunda bilgisayar korsanı, işleyici sistemlere zombilerin botnetinin bir DDoS saldırısı gerçekleştirmesini sağlama talimatı verecektir.
+
+-Botnet: İnternet üzerinden bağlanan ve kötü niyetli bir kişi veya grup tarafından kontrol edilebilen bir grup bottur. Genellikle bir komuta ve kontrol (C&C) sunucusu aracılığıyla kontrol edilen onbinlerce bota sahip olabilir. Bu botlar kötü amaçlı yazılım dağıtmak, DDoS saldırısı başlatmak, spam e-posta dağıtmak veya kaba kuvvet şifre saldırıları gerçekleştirmek için etkinleştirilebilir. Siber suçlular genelde botnetleri üçüncü tarafa kiralar.
+
+-Yol Üzerindeki Saldırılar: Yoldaki saldırganlar, bir web tarayıcısı ve bir web sunucusu gibi iki cihaz arasındaki iletişimi, cihazların bilgi toplamak veya cihazlardan birinin kimliğine bürünmek amacıyla keser veya değiştirir. Bu tür saldırılara aynı zamanda Man-in-the-middle veya Man-in-the-mobile saldırısı da denir.
+
+*Man-in-the-middle(MITM): Bir sibe suçlunun kullanıcının bilgisi olmadan bir cihazın kontrolünü ele geçirmesiyle gerçekleşir. Bu erişim düzeyiyle bir saldırgan, kullanıcı bilgilerini istene hedefe göndermeden önce yakalayabilir ve elegeçirebilir. Bu tür saldırılar genellikle finansal bilgileri çalmak için kullanılır.
+*Man-in-the-mobile: Kullanıcının mobil cihazının kontrolünü ele geçirmek için kullanılan bir saldırı türüdür. Mobil bir cihaza enfekte olduğunda, kullanıcının hassas bilgilerinin sızdırılması ve saldırganlara gönderilmesi talimatı verilir.
+
+-SEO Zehirlenmesi: Bir kuruluşun web sitesini, arama motoru sonuçlarında daha fazla görünürlük elde edecek şekilde iyileştirmeyle ilgili olan arama motoru optimizasyonudur. SEO zehirlenmesinin en yaygın amacı, kötü amaçlı yazılım barındırabilecek veya sosyal mühendislik gerçekleştirebilecek kötü amaçlı sitelere yönelik trafiği arttırmaktır. 
+
+-Parola Saldırıları: 
+
+*Parola Püskürtme= Yaygın olarak kullanılan birkaç parolayı çok sayıda hesaba püskürterek(spraying) bir sisteme erişim sağlamaya çalışır.
+*Sözlük Saldırıları= Bir bilgisayar korsanı, parola korumalı bir hesaba sızma girişinde bulunmak amacıyla sözlükteki veya yaygın olarak kullanılan sözcükler listesindeki her sözcüğü sistematik bir şekilde parola olarak dener.
+*Kaba Kuvvet Saldırıları= Bir saldırganın doğru sonuca ulaşana kadar parola alanındaki tüm olası harf, sayı ve sembol kombinasyonlarını kullanmasıdır.
+*Gökkuşağı Saldırıları(Rainbow attack)= Gökkuşağı tablosu önceden hesaplanmış karmaların(hash) ve bunların hasaplandığı parolaların büyük bir sözlüğüdür. Rainbow attack, bir parolanın karmasını Gökkuşağı tablosunda depolananlarla Saldırgan, bir eşleşme bulduğunda karma oluşturmak için kullanılan parolayı belirler. 
+*Trafik Müdahalesi= Bir parolayı düz metin veya şifrelenmemiş halde saklarsak, iletişimin kesilmesi yoluyla diğer insanlar kolaylıkla okuyabilir.
+
+-Gelişmiş Kalıcı Tehditler:Belirli bir hedefe karşı çok aşamalı, uzun vadeli, gizli ve hızlı gelişmiş bir operasyondur. Bu nedenlerden dolayı bireysel bir saldırgan genellikle Gelişmiş Sürekli TEhditler(APT) gerçekleştirerek beceri setinden, kaynaklardan ve kararlılıktan yoksundur. Böyle bir saldırıı gerçekleştirmek için gereken karmaşıklık ve beceri düzeyi nedeniyle bir APT genellikle iyi finanse edilir. Esas amacı, özelleştirmiş kötü amaçlı yazılımları hedefin bir veya daha fazla sistemine dağıtmak ve orada tespit edilmeden kalmaktır.

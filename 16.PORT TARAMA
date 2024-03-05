@@ -1,0 +1,7 @@
+                          16.PORT TARAMA
+
+Ağda, bir aygıtta çalışan her uygulamaya bağlantı noktası(port) numarası adı verilen tanımlayıcı atanır. Bu bağlantı noktası numarası iletimin her iki ucunda kullanılır, böylece doğru veri doğru uygulamaya geçirilir. Port tarama açık ağ ana bilgisayarları sorgulama işlemidir.
+
+*"Açık(open)" veya "Kabul edildi(accepted)" bilgisayarda çalışan port veya hizmete diğer ağ aygıtları tarafından erişilebileceği anlamına gelir.
+*"Kapalı(closed)" , "Engellendi(blocked)" veya "Dinlenmiyor(not listening)" portların veya hizmetin bilgisayarda çalışmadığı vebu nedenle kullanılamayacağı anlamına gelir.
+*"Engellendi(blocked)" , "Filtrelenmiş(filtered)" veya "Düşürülmüş(dropped)" porta veya hizmete erişimin bir güvenlik duvarı tarafından engellendiği ve bu nedenle kötüye kullanılamayacağı anlamına gelir.

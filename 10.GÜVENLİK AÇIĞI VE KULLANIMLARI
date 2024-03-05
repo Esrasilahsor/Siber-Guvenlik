@@ -1,0 +1,14 @@
+                                                  10.GÜVENLİK AÇIĞI VE KULLANIMLARI
+
+Güvenlik açıkları her türlü yazılım ve donanım kusurudur. Bilinen bir güvenlik açığından yararlanmak için yazılan programa sömürü(exploit) adı verilir. Bir siber suçlu amacı bir sisteme, barındırdığı verilere veya belirli bir kaynağa erişim sağlamak olan bir saldırı gerçekleştirmek için bir güvenlik açığına yönelik bir sömürüden yararlanabilir.
+
+-Donanım Güvenlik Açıkları: Genellikle donanım tasarım kusurları nedeniyle ortaya çıkar.
+*Meltown= BElirli bir sistemdeki tüm belleğin(meltdown) işlenen verileri okuyabilir.
+*Specture= Diğer uygulamalar tarafından işlenen verilerin okunması.
+
+-Yazılım Güvenlik Açıkları: 
+*Arabellek Taşınması(Buffer Overflow)= Veriler arabellek sınırlarının ötesinde yazıldığında oluşur. Uygulama, verileri bir arabelleğin sınırları ötesinde değiştirilerek, diğer işlemlere ayrılan belleğe erişebilir. Bu işlem sistem,n çökmsine veya veri ihlaline neden olabilir.
+*Doğrulanmamış Girdi= Gelen veriler, programı istenmeyen şekilde davranmaya zorlamak için tasarlanmış kötü amaçlı içeriğe sahip olabilir.
+*Yarış Koşulları(Race Conditions)= Bir olyaın çıktısının sıralı veya zamanlanmış çıktılara bağlı olduğu bir durum açıklar. Bir yarış koşulu gerekli, sıralı veya zamanlanmış olaylar doğru sırada veya uygun zamanlama gerçekleşmediğinde bir güvenlik açığı haline gelir.
+*Güvenlik Uygulamalarında Zayıflıklar= Geliştiriciler önceden oluşturulmuş, test edilmiş ve doğrulanmış güvenlik tekniklerini ve kitaplıklarını kullanmaya devam etmeli ve kendi güvenlik algoritmalarını oluşturmaya çalışmamalıdır. Bunlar yalnızca yeni güvenlik açıkları ortaya çıkaracaktır.
+*Erişim Denetimi Sorunları= Bir saldırganın hedef ekipmana fiziksel erişimi varsa neredeyse tüm erişim kontrolleri ve güvenlik uygulamaları açılabilir.

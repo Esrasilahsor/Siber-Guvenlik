@@ -1,0 +1,13 @@
+                     14.GÜVENLİK ARAÇLARI
+
+-Yönlendiriciler(Router): Öncelikle çeşitli ağ bölümlerini birbirine bağlamak için kullanılsa da genellikle temel trafik filtreleme yeteneklerini de sağlarlar. Bu bilgi, belirli bir ağ kesimindeki hangi bilgisayarın hangi ağ kesimleriyle iletişim kurabileceğini tanımlamanıza yardımcı olabilir.
+
+-Güvenlik Duvarları(Firewall): Ağ trafiğini daha derinlemesine inceleyebilir ve engellenmesi gereken kötü amaçlı davranışları tespit edebilir. Güvenlik duvarları, içinden geçen trafiğe uygulanan karmaşık güvenlik politikalarına sahip olabilir.
+
+-Saldırı Önleme Sistemleri(IPS): IPS sistemleri, kötü amaçlı yazılım trafiğini ve saldırıları eleştiren ve engelleyen bir dizi trafik imzası kullanır.
+
+-Sanal Özel Ağlar(VPN): VPN sistemleri, uzaktaki çalışanların mobil bilgisayarından güvenli, şifrelenmiş bir tünel kullanmasına ve kuruluşun ağını güvenli bir şekilde yeniden bağlamasına olanak tanır. VPN sistemleri ayrıca şubeleri merkez ofis ağına güvenli bir şekilde bağlayabilir.
+
+-Antimalware ve Antivirüs: Bu sistemler, kötü amaçlı kodu tanımlamak ve yürütülmesini engellemek için uygulamaların imzalarını veya davranışsal analizini kullanır. 
+
+-Diğer Güvenlik Cihazları: Web ve e-posta güvenlik cihazlarını, şifre çözme cihazlarını, işlemci erişim kontrol sunucularını ve güvenlik yönetim sistemlerini içerir.

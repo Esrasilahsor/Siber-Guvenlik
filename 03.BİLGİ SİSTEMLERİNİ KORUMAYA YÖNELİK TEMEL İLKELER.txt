@@ -1,4 +1,8 @@
-BİLGİ SİSTEMLERİNİ KORUMAYA YÖNELİK TEMEL İLKELER
+                                          BİLGİ SİSTEMLERİNİ KORUMAYA YÖNELİK TEMEL İLKELER
+
 -Gizlilik: Gizliliği sağlamaya yönelik yöntemler arasında veri şifreleme, kimlik doğrulama ve iki fakötrlü kimlik doğrulama görev alır.
--Bütünlük: Sistem bilgilerinin veya sistemlerinin kasıtlı veya kazara yapılan değişikliklere karş korumasını sağlar. Bütünlüğü sağlamanın bir yolu karma(hash) işlevi veya sağlama toplamı (checksum) kullanmaktır.
+
+-Bütünlük: Sistem bilgilerinin veya sistemlerinin kasıtlı veya kazara yapılan değişikliklere karş korumasını sağlar. Bütünlüğü sağlamanın bir yolu karma(hash) işlevi veya 
+sağlama toplamı (checksum) kullanmaktır.
+
 -Kullanılabilirlik/ Uygunluk: Yetkili kullanıcıların ihtiyaç duyduğu zaman ve yerde sistem ve verilere erişebilmesi ve belirlenen koşulları sağlamayanların ise erişememesi anlamına gelir. Bunlar ekipmanın bakımını yapmak, donanım onarımlarını gerçekleştirmek, işletim sistemlerini ve yazılımları güncel tutmak ve yedeklemeleri oluşturmak gibi yöntemlerle başarılabilir.

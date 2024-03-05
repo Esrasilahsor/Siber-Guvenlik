@@ -1,0 +1,7 @@
+                                    13.ŞİFRELEME
+Şifreleme(encryption), bilgiyi yetkisiz kişilerin okuyamayacağı bir forma dönüştürme süercidir. Yalnızca güvenilir, gizli aanahtara sahip yetkili bir kişi verilerin şifresini çözebilir ve orijinal formuna erişebilir.
+
+-İki Fakötürlü Kimlik Doğrulama= İki faktörlü kimlik doğrulama, kullanıcı adınızın ve parolanızın veya kişisel kimlik numaranızın(PIN) yanı sıra, kimlik doğrulamak için ikinci bir belirteç gerektirir.
+*Kredi kartı, cep telefonu, anahtarlık gibi fiziksel bir nesne
+*Parmak izi veya yüz ve ses tanıma gibi biyometrik tarama
+*Sms veya e-posta yoluyla gönderilen doğrulama kodu
